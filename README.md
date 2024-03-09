@@ -1,6 +1,8 @@
 # laundry management system
 
 <!-- Adios David :( -->
+<!-- Segundo comentario aleatorio, mondongo -->
+
 ---
 ## Using Tech:
 
